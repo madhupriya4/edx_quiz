@@ -1,0 +1,4 @@
+edx_grade is an Activity Module for Moodle 2.x
+
+The purpose is to transfer grades of the students enrolled in courses from edx to moodle. It extends the functionalities provided by moodle to users.
+
